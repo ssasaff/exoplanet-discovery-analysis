@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ssasaff.github.io/exoplanet-discovery-analysis/sitemap.xml
